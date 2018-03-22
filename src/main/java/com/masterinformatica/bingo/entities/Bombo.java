@@ -62,4 +62,8 @@ public class Bombo {
 		}
 		return format.toString();
 	}
+	
+	public int getMaxNumber() {
+		return MAX_NUMBERS;
+	}
 }
